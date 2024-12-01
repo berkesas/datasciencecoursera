@@ -33,7 +33,7 @@ All other variable names are loaded from the "features.txt" file.
   
 # How it works?
 
-run_analysis.R file needs the original data files listed in excluded files section above.
+run_analysis.R file needs the original data files listed in excluded files section above. *The data files must be in course3 folder* for the script to work.
 
 ## 1 - Reading from text files
 
